@@ -1,3 +1,8 @@
+# 보는 순서
+selenium_pandas_excel > email_automation_docx > email_automation_excel
+
+
+
 # 파이썬 자동화 & RPA
 
 RPA란
